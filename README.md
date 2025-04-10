@@ -22,8 +22,17 @@ I'm a second-year Computer Science and Engineering student at MIT Manipal, passi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashChauhan-2303&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashChauhan-2303&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=YashChauhan-2303&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChauhan-2303&layout=compact&theme=radical&langs_count=8" height="165" />
 </p>
+
+---
+
+## 📊 GitHub Contributions
+
+<a href="https://github.com/YashChauhan-2303">
+  <img src="https://github-contribution-graph.ezra.sh/api?username=YashChauhan-2303&bg_color=1a1b27&color=dd61ff&line=00f5d4&point=ffffff&area=true&theme=radical" alt="Contribution Graph" />
+</a>
 
 ---
 
@@ -44,4 +53,3 @@ I'm a second-year Computer Science and Engineering student at MIT Manipal, passi
 ---
 
 > “Code. Coffee. Repeat.” ☕💻
-
