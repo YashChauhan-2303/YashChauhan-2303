@@ -18,21 +18,9 @@ I'm a second-year Computer Science and Engineering student at MIT Manipal, passi
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats (Powered by Metrics)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashChauhan-2303&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=YashChauhan-2303&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChauhan-2303&layout=compact&theme=radical&langs_count=8" height="165" />
-</p>
-
----
-
-## 📊 GitHub Contributions
-
-<a href="https://github.com/YashChauhan-2303">
-  <img src="https://github-contribution-graph.ezra.sh/api?username=YashChauhan-2303&bg_color=1a1b27&color=dd61ff&line=00f5d4&point=ffffff&area=true&theme=radical" alt="Contribution Graph" />
-</a>
+<img src="https://metrics.lecoq.io/YashChauhan-2303?template=classic&config.timezone=Asia%2FCalcutta&config.animated=true&config.display=columns&config.width=1000&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&isocalendar=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata" alt="Yash's GitHub Metrics" />
 
 ---
 
