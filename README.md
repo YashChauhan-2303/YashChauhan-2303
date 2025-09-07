@@ -1,10 +1,10 @@
 <!-- Gradient Header Background -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&fontSize=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&fontSize=0)
 
-<!-- Typing SVG adjusted inside header -->
-<p align="center" style="margin-top: -120px;">
+<!-- Typing SVG -->
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yash+👋;Full-Stack+Developer;CSE+%7C+MIT+Manipal;Always+Learning+🚀" alt="Typing SVG" />
-</p>
+</div>
 
 ## 👨‍💻 About Me  
 
