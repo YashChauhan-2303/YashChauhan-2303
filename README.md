@@ -1,33 +1,35 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Yash%20👋&fontSize=40&animation=twinkling)
+<!-- Gradient Header Background -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&fontSize=0)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;3rd+Year+CSE+Undergrad;Web+Dev+Enthusiast;Always+learning+new+tech!)](https://git.io/typing-svg)
-
----
+<!-- Typing SVG adjusted inside header -->
+<p align="center" style="margin-top: -120px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yash+👋;Full-Stack+Developer;CSE+%7C+MIT+Manipal;Always+Learning+🚀" alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 About Me  
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="60%">
-      I'm a <b>third-year Computer Science and Engineering undergrad</b> at MIT Manipal, passionate about building cool stuff on the web and exploring tech! <br><br>
-      <ul>
-        <li>🎯 Currently learning <b>AI/ML</b></li>
-        <li>🌐 Love working on <b>Web Development</b></li>
-        <li>🎮 Gamer | 🚗 Car Enthusiast</li>
-        <li>📫 Reach me at: <a href="mailto:yashchauhan.2303@gmail.com">yashchauhan.2303@gmail.com</a></li>
-        <li>😄 Pronouns: He/him/his</li>
-        <li>⚡ Fun fact: I <i>never</i> say no to a road trip 🚙</li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="40%">
-      <img src="https://media4.giphy.com/media/xUPGcM7uZ4gQoU8kPm/giphy.gif" alt="Mario Sticker" width="180"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <p>
+      I'm a <b>third-year Computer Science and Engineering undergrad</b> at MIT Manipal, passionate about building cool stuff on the web and exploring tech!  
+    </p>
+    <ul>
+      <li>🎯 Currently learning <b>Python</b></li>
+      <li>🌐 Love working on <b>Web Development</b></li>
+      <li>🎮 Gamer | 🚗 Car Enthusiast</li>
+      <li>📫 Reach me at: <a href="mailto:yashchauhan.2303@gmail.com">yashchauhan.2303@gmail.com</a></li>
+      <li>😄 Pronouns: He/him/his</li>
+      <li>⚡ Fun fact: I <i>never</i> say no to a road trip 🚙</li>
+    </ul>
+  </div>
+  <div style="flex: 0 0 200px; text-align: center;">
+    <img src="https://media4.giphy.com/media/xUPGcM7uZ4gQoU8kPm/giphy.gif" alt="Mario Sticker" width="180"/>
+  </div>
+</div>
 
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+
 
 ## 🔧 Tech Stack  
 
@@ -35,7 +37,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,cpp,java,python,postgres,git,github,vscode,figma&perline=7" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="3">
+</p>
+
 
 ## 📊 GitHub Analytics  
 
@@ -48,16 +53,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YashChauhan-2303&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
+<hr style="border: 2px dashed #f75c7e;" />
+
 
 ## 🚀 Projects & Work  
 
 - 🔥 Built **INVENTO** – a full-stack inventory management system  
-- 🎶 developed a **Music Player** with animations  
+- 🎶 Built a **GUI** for a pod  
 - 🛠️ Working on **Portfolio V2**  
 - 📂 Check my **pinned repos** for more!  
 
----
+<div style="height: 3px; background: linear-gradient(to right, #f75c7e, #6a11cb, #2575fc);"></div>
+
 
 ## 🤝 Let's Connect!  
 
@@ -67,6 +74,7 @@
   <a href="https://github.com/YashChauhan-2303" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
 
 > “Code. Coffee. Repeat.” ☕💻  
